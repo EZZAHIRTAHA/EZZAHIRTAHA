@@ -43,5 +43,5 @@ Most of the work is **translation**. One button labelled *“Publish”* has to 
 Mostly **PHP**, with a solid **JavaScript / TypeScript** side — integration plumbing, API backends, and the occasional thing built purely to find out whether it would work.
 
 <p align="center">
-  <sub>On GitHub since 2022, reconciling OAuth flows for most of it · <a target="_blank" href="https://www.linkedin.com/in/taha-e-5b213b254/">LinkedIn</a></sub>
+  <sub>On GitHub since 2022, reconciling OAuth flows for most of it · <a href="https://www.linkedin.com/in/taha-e-5b213b254/">LinkedIn</a></sub>
 </p>
