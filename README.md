@@ -1,4 +1,4 @@
-<h1 align="center">Taha E</h1>
+<h1 align="center">Taha Ezzahir</h1>
 
 <p align="center">
   <b>Backend engineer</b> at <a href="https://github.com/cosmic-data">Cosmic DATA</a> · Casablanca, Morocco<br>
